@@ -41,7 +41,3 @@ An interactive **Power BI** project tracking total revenue, profitability, regio
 * **Version Control:** GitHub
 
 ---
-
-
-├── Finance_Analytics_Dashboard.pbix
-└── README.md
